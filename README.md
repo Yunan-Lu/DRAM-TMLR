@@ -15,8 +15,6 @@ python demo.py
 ## Usage
 
 Here is a simple example of using DRAM.
-
-## Usage
 ```python
 from dram import DRAM_LP
 from sklearn.model_selection import train_test_split
