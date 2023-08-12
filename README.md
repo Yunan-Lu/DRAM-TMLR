@@ -1,5 +1,5 @@
 # DRAM
-DRAM: a framework for predicting label distribution from tie-allowed multi-label ranking via conditional Dirichlet mixtures
+DRAM: A framework for predicting label distribution from tie-allowed multi-label ranking via conditional Dirichlet mixtures
 
 
 ## Requirements
@@ -34,7 +34,7 @@ report(Dhat, Ds)
 ## Paper
 
 ```latex
-@article{Lu2023PredictingLD,
+@article{Lu2023-DRAM_TMLR,
   author={Lu, Yunan and Li, Weiwei and Li, Huaxiong and Jia, Xiuyi},
   journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
   title={Predicting Label Distribution From Tie-Allowed Multi-Label Ranking}, 
